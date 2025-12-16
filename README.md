@@ -146,6 +146,7 @@ Question-4. Compare A and B:
 A = 10, B = 20
 Result: B is greater
 ```
+<img width="687" height="428" alt="image" src="https://github.com/user-attachments/assets/e3d157e6-7e95-43aa-af99-b487a079c5e9" />
 
 ---
 
@@ -162,6 +163,7 @@ Musafirassignment/
 ├── Musafirassignment.sln
 └── README.md
 ```
+<img width="304" height="206" alt="image" src="https://github.com/user-attachments/assets/c1e70028-1933-4efc-9850-39156463dd31" />
 
 ---
 
@@ -188,6 +190,3 @@ Musafirassignment/
 GitHub: [https://github.com/Rajesh-6171](https://github.com/Rajesh-6171)
 
 
-
-If you paste this README, your repository will look **professional, complete, and interview-ready** ✅
-If you want a **short HR-friendly version** or **add screenshots section**, I can do that too 👍
