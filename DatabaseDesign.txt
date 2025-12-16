@@ -1,0 +1,5 @@
+Customer(CustomerId, Name, Phone, Address)
+Product(ProductId, ProductType, Price)
+Order(OrderId, CustomerId, OrderDate, Status)
+OrderItem(OrderItemId, OrderId, ProductId, Quantity)
+OrderTracking(OrderId, ProductionStatus, PackagingStatus, DeliveryStatus)
